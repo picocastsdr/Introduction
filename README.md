@@ -1,6 +1,32 @@
 # Introduction
 PICOCAST SDR is the next generation of multi-ad-hoc tactical radio communication technology.
 The introduction description for this technology is as follows:
+
+[![Video Label](https://img.youtube.com/vi/R5tctcbuPp0/0.jpg)](https://www.youtube.com/watch?v=R5tctcbuPp0)
+
+- 피코캐스트 SDR이란?
+  간섭에 강한 PicoCast-SDR 기술을 기반으로 전대역 초연결이 가능한 무선통신 원천 기술입니다. 
+  이 기술을 이용한 MANET(Mobile Ad-Hoc Network)을 지원하는 국방(방산) 및 민수용 SDR 무전기와 
+  Wearable과 IoT 용도의 무선 데이터 모뎀/모듈 및 Protocol-Stack을 제공합니다.
+-  제품 및 특징 소개
+1. 국제표준 IEEE802.15.PSC, ISO/IEC29157 에 등록된 PicoCast를 기반으로, 국방과 재해재난, 공공안전 및 산업용과 IoT 용도의 PicoCast-SDR 통신장비(무전기) 및 모듈 제품을 개발 및 제조
+2. PicoCast-SDR 기술은 간섭에 강하고 신뢰성 대단히 높은 독자 원천 기술임 (군사용 통신 핵심기술)
+3. 기술의 고도화를 통한 SoC 추진 → 글로벌 통신용 반도체 Chip 및 서비스 제공
+4. 주요 제품 : 군용무전기(PRC-2080K) / 웨어러블 통신모듈(PSM-3101)
+
+- What is PicoCast SDR?
+It is a radio communication source technology that enables full-band hyperconnectivity based on interference-resistant PicoCast-SDR technology.
+The defense (radiation) and civilian SDR radios that support MANET (Mobile Ad-Hoc Network) using this technology
+Launch radio communication data modems/modules and Protocol-Stack for Wearable and IoT.
+- Introducing products and features
+1. Developing and manufacturing PicoCast-SDR communication equipment and module products for defense and disaster disasters, public safety and industrial use, and IoT based on PicoCast registered in the International Standard IEEE 802.15.PSC, ISO/IEC29157
+2. PicoCast-SDR technology is independent source technology that is highly interference-resistant and highly reliable (Military Communications Core Technology)
+3. SoC promotion through technological advancement → Semiconductor chips and services for global communication
+4. Main product: Military Armistice (PRC-2080K) / Wearable Communication Module (PSM-3101)
+
+* 비즈니스 연락처  Business Contact :
+  picocastsdr@gmail.com
+  
 ![슬라이드1](https://github.com/picocastsdr/Introduction/assets/168712846/a1ff9849-3b63-4e64-a75c-3016e74245ed)
 ![슬라이드2](https://github.com/picocastsdr/Introduction/assets/168712846/9bd0c814-b2c4-4aa5-b737-a0a412a776e7)
 ![슬라이드3](https://github.com/picocastsdr/Introduction/assets/168712846/1a250fea-4438-419e-8bc9-1f43a541499a)
