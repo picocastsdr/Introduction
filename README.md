@@ -1,5 +1,5 @@
 # Introduction
-PICOCAST SDR is the next generation of multi-ad-hoc tactical radio communication technology.
+PicoCast-SDR(c) is the next generation of multi-ad-hoc(MANET) tactical radio communication technology.
 The introduction description for this technology is as follows:
 
 [![Video Label](https://img.youtube.com/vi/R5tctcbuPp0/0.jpg)](https://www.youtube.com/watch?v=R5tctcbuPp0)
